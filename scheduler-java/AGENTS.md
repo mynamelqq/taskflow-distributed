@@ -1,0 +1,1 @@
+这个项目是我的学习项目，目标是做一个go和java的分布式任务调度平台，技术栈是spring boot4,mysql,mabatis-plus
